@@ -26,7 +26,7 @@ MyTreasure is written with the following computer languages:
 
 It uses the [W3.CSS framework](https://www.w3schools.com/w3css/) and [Font Awesome](http://fontawesome.io/) for the icons.
 
-The background image comes from [pixabay.com](https://pixabay.com/es/illustrations/%C3%A1frica-am%C3%A9rica-asia-atl%C3%A1ntico-15428/) by paulina, November 9, 2016.
+The background image comes from [pixabay.com](https://pixabay.com/es/illustrations/%C3%A1frica-am%C3%A9rica-asia-atl%C3%A1ntico-15428/).
 
 It uses also some libraries I have developed:
 
@@ -93,8 +93,8 @@ Developing software it's not just my job. It's vocational, because I **love** co
 
 You can contact me at the following addresses:
 
-[www.floppysoftware.es](http://www.floppysoftware.es)
-floppysoftware@gmailcom
+- Website: [www.floppysoftware.es](http://www.floppysoftware.es)
+- Email: [floppysoftware@gmailcom](mailto:floppysoftware@gmailcom)
 
 ## Can I contribute to AppTemplate?
 
