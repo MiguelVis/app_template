@@ -1,0 +1,61 @@
+/* W3CSS customization
+   -------------------
+*/
+
+/* Modals
+*/
+.w3-modal-header,.w3-modal-header:hover {
+	color:#fff!important;
+	background-color:#4c6a92!important;
+}
+
+/* Sidenav
+*/
+.w3-sidenav {
+	color:#fff!important;
+	background-color:#2e4059!important;
+}
+
+/* Buttons
+*/
+.w3-btn {
+	border-radius:4px;
+}
+
+/* AppTemplate theme
+   -----------------
+*/
+
+/* Cursor for Font Awesome Icons DEPRECATED
+*/
+i.th-fa-clickable:hover {
+	cursor:pointer;
+}
+
+/* Color for primary buttons DEPRECATED
+*/
+.th-w3-btn-primary {
+	background-color:#2196F3!important;
+}
+
+/* Modals
+*/
+div.x-modal-medium {
+	max-width:600px;
+}
+
+div.x-modal-large {
+	max-width:900px;
+}
+
+/* Tabs
+*/
+div.x-tab-rest {
+	border-top: 1px solid white;
+}
+
+/* Clickable items
+*/
+.x-clickable:hover {
+	cursor:pointer;
+}
